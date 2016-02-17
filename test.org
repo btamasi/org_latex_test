@@ -1,0 +1,9 @@
+#+TITLE: Test
+
+* Latex Test
+
+Inline stuff \(a^2 + b^2 \ge 0\). Or $a^2$ or $$a^2 + b^2$$
+
+Display
+
+$$ x = \int_a^b f(x) dx $$
